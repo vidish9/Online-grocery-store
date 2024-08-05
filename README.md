@@ -6,23 +6,24 @@ Welcome to the Online Grocery Store project! This is a web application developed
 Technologies Used
 
 ASP.NET: A web framework for building web applications.
-C#: The programming language used for the back-end logic.
-Entity Framework: An ORM (Object-Relational Mapper) for database operations.
-SQL Server: The database system used to store application data.
-HTML/CSS: For the front-end structure and styling.
-JavaScript: For dynamic client-side functionality.
+  C#: The programming language used for the back-end logic.
+  Entity Framework: An ORM (Object-Relational Mapper) for database operations.
+  SQL Server: The database system used to store application data.
+  HTML/CSS: For the front-end structure and styling.
+  JavaScript: For dynamic client-side functionality.
 
 Features
 
 User Registration and Authentication: Users can create accounts, log in, and manage their profiles.
-Product Catalog: Browse through a list of available groceries with detailed descriptions and prices.
-Shopping Cart: Add, update, and remove items from the shopping cart.
-Order Management: Place orders and view order history.
-Admin Panel: Manage products, categories, and user accounts.
+  Product Catalog: Browse through a list of available groceries with detailed descriptions and prices.
+  Shopping Cart: Add, update, and remove items from the shopping cart.
+  Order Management: Place orders and view order history.
+  Admin Panel: Manage products, categories, and user accounts.
 
 Installation
 
 Prerequisites
+
 .NET SDK
 SQL Server
 A code editor (e.g., Visual Studio)
@@ -31,7 +32,7 @@ Steps
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/online-grocery-store.git
+git clone https://github.com/vidish9/Online-grocery-store/
 cd online-grocery-store
 
 Set Up the Database:
